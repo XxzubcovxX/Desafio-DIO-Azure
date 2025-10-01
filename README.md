@@ -12,7 +12,7 @@ O processo de criação do banco de dados foi dividido nas seguintes etapas:
 
 O processo iniciou na página do "Azure SQL", onde ainda não havia nenhum banco de dados criado, representando o ponto de partida do projeto.
 
-<img src="PASTA_DAS_IMAGENS/1.png" width="700">
+<img src="1.png" width="700">
 
 ### 2. Criação do Banco de Dados SQL
 
